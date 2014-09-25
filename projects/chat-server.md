@@ -4,9 +4,9 @@ Requirements for the week - Codecademy
 
 HTML & CSS - Completed
 
-JavaScript on Codecademy - 10 hours
+JavaScript on Codecademy
 
-jQuery Track - 3 hours
+jQuery Track
 
 Basic Projects on [Codecademy](http://www.codecademy.com/en/tracks/projects)
 
